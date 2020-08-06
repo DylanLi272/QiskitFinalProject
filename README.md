@@ -22,7 +22,7 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=m=9.10938356 \times 10^{-31} kg"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=v=\frac{m}{s}"></p>
 
-However, obtaining the precise velocity of an electron is impossible because of how small they are. There is nothing to measure an electron's movement against. Measurements always require some frame of reference. One advantage to using a quantum computer is that it allows us to estimate the velocity of an electron during simulation by using current and resistance (impedance) measurements on the microwave transceiver that ineracts with a Josephson Junction (Qubit). The estimate you can obtain for an electron's velocity using a quantum computer is more accurate because it is a representation of the quantum mechanical effect you are attempting to measure outside of a lab setting.
+<p align="center">However, obtaining the precise velocity of an electron is impossible because of how small they are.</p>
 
 #### Nuclear Kinetic Energy
 
@@ -34,7 +34,7 @@ However, obtaining the precise velocity of an electron is impossible because of 
 
 The First Quantized Molecular Hamiltonian for LiH can be described with the following vector calculus formula: 
 
-<p align="center"><img src="https://render.githubusercontent.com/render/math?math=H = -\sum_{i=1}^{N}\frac{1}{2}\triangledown_{i}^{2}-\sum_{A=1}^{M}\frac{1}{2M_{A}}\triangledown_{A}^{2}-\sum_{i=1}^{N}\sum_{A=1}^{M}\frac{Z_{a}}{r_{iA}}+\sum_{j>i}\frac{1}{r_{ij}}+\sum_{B>A}\frac{Z_{A}Z_{B}}{R_{AB}}"></p>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\hat{H}=-\sum_{i=1}^{N}\frac{1}{2}\triangledown_{i}^{2}-\sum_{A=1}^{M}\frac{1}{2M_{A}}\triangledown_{A}^{2}-\sum_{i=1}^{N}\sum_{A=1}^{M}\frac{Z_{a}}{r_{iA}}+\sum_{j>i}\frac{1}{r_{ij}}+\sum_{B>A}\frac{Z_{A}Z_{B}}{R_{AB}}"></p>
 
 
 Choices of designing VQE algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
