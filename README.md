@@ -73,7 +73,7 @@ The First Quantized Molecular Hamiltonian for LiH can be described with the foll
   Favorite Emoji:  Qiskit Smart
   Favorite Color: :blue_heart: 
   
-#### Name: Arpan Bhattacharjee
+#### Arpan Bhattacharjee
   Preferred Pronoun:   He
   City/Location:  Kolkata, India
   University & Major: B.Sc. in Physics - St. Xavier's College, Kolkata
