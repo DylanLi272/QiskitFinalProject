@@ -8,7 +8,7 @@ The goal is to complete the molecular simulation in the *fewest number of steps*
 
 In this project we design, implement, and simulate a Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule. Each team member explores a different optimization path using the same base model. LiH is a 12 body molecule containing 4 protons, 4 electrons, and 4 neutrons. This creates a 12 body model, which becomes intractable when simulating it both with a classical and quantum computer. So, this model reduces the First Quantized Molecular Hamiltonian to a blank body interaction. Let's begin by describing the intermolecular forces of this molecule conceptually:
 
-<p align="center">First Quantized Molecular Hamiltonian = - Sum(Electron Kinetic Energy) - Sum(Nuclear Kinetic Energy) - Sum(Electron to Nuclear Coulombic Forces)</p>
+<p align="center">Molecular Hamiltonian = - Sum(Electron Kinetic Energy) - Sum(Nuclear Kinetic Energy) - Sum(Electron to Nuclear Coulombic Forces)</p>
  <p align="center">+ Sum(Electron to Electron Coulombic Forces) + Sum(Nuclear to Nuclear Coulombic Forces)</p>
 
 #### Electron Kinetic Energy
