@@ -30,7 +30,7 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 
 <p align="center">Proton Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}\times m \times v^{2}"></p>
 
-<p align="center">Where m is the mass of an electron and v is the velocity of an electron in meters per second.</p>
+<p align="center">Where m is the mass of a proton and v is the velocity of a proton in meters per second.</p>
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=m=1.6726219 \times 10^{-27} kg"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=v=\frac{m}{s}"></p>
