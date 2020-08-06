@@ -8,7 +8,7 @@ The goal is to complete the molecular simulation in the *fewest number of steps*
 
 In this project we design, implement, and simulate a Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule. Each team member explores a different optimization path using the same base model. LiH is a 12 body molecule containing 4 protons, 4 electrons, and 4 neutrons. This creates a 12 body model, which becomes intractable when simulating it both with a classical and quantum computer. The First Quantized Molecular Hamiltonian for LiH can be described with the following vector calculus formula: 
 
-<img src="https://render.githubusercontent.com/render/math?math=H = -$\sum\limits_i=1^N$">
+<img src="https://render.githubusercontent.com/render/math?math=H = -$\sum_i=1^N$">
 
 Choices of designing VQE algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
 
