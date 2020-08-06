@@ -13,14 +13,14 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 
 #### Electron Kinetic Energy
 
-The kinetic energy of a single electron can be described using classical mechanics:
+<p align="center">The kinetic energy of a single electron can be described using classical mechanics:</p>
 
-Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}\times m \times v^{2}">
+<p align="center">Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}\times m \times v^{2}"></p>
 
-Where m is the mass of an electron and v is the velocity of an electron in meters per second.
+<p align="center">Where m is the mass of an electron and v is the velocity of an electron in meters per second.</p>
 
-<img src="https://render.githubusercontent.com/render/math?math=m=9.10938356 \times 10^{-31} kg">
-<img src="https://render.githubusercontent.com/render/math?math=v=\frac{m}{s}">
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=m=9.10938356 \times 10^{-31} kg"></p>
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=v=\frac{m}{s}"></p>
 
 However, obtaining the precise velocity of an electron is impossible because of how small they are. There is nothing to measure an electron's movement against. Measurements always require some frame of reference. One advantage to using a quantum computer is that it allows us to estimate the velocity of an electron during simulation by using current and resistance (impedance) measurements on the microwave transceiver that ineracts with a Josephson Junction (Qubit). The estimate you can obtain for an electron's velocity using a quantum computer is more accurate because it is a representation of the quantum mechanical effect you are attempting to measure outside of a lab setting.
 
