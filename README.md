@@ -22,7 +22,7 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=m=9.10938356 \times 10^{-31} kg"></p>
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=v=\frac{m}{s}"></p>
 
-<p align="center">However, obtaining the precise velocity of an electron is impossible because of how small they are.</p>
+<p align="center">However, obtaining the precise velocity of an electron is impossible because of how small they are. Thus, we resort to estimating this electron kinetic energy using qubits as a representation of quantum mechanical interactions.</p>
 
 #### Nuclear Kinetic Energy
 
