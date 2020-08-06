@@ -25,6 +25,7 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 <p align="center">However, obtaining the precise velocity of an electron is impossible because of how small they are. Thus, we resort to estimating this electron kinetic energy using qubits as a representation of quantum mechanical interactions.</p>
 
 #### Nuclear Kinetic Energy
+<p align="center">Given the size of the lithium nucleus. The nuclear kinetic energy of Lithium Hydride is negligible. It is important to recognize taht this property can not always be neglected in an atomic or molecular simulation. There are atoms that have extraordinary amounts of nuclear kinetic energy. The first atom on the periodic table that displays this unique nuclear kinetic energy combinatorics property is Technetium. Technetium is the first element in the periodic table that periodically emits a helium nucleus. Its half-life is 4.21 million years, and it decays in to Niobium. So, when simulating atoms or molecules it is important to be aware of when the nucleur kinetic energy is an important property in your atomic or molecular model.</p>
 
 #### Electron to Nuclear Coulombic Force
 
