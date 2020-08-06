@@ -1,5 +1,39 @@
 # QiskitFinalProject
 
+## Meet the Team of Researchers
+
+Name: Justin Adams
+Preferred Pronoun:  He
+City/Location:  Vermont, United States
+University & Major: B.Sc. Electrical Engineering and B.Sc. Computer Science
+Company & Background/Industry: Q2-Computing Quantum Computation and Quantum Operating System based on NP Hard Reductions using Majorana Fermion Josephson Junctions
+Favorite Emoji:  :cY_gate: (1 qubit Majorana Fermion)
+Favorite Color: :blue_book:
+
+Name: Zarreen Reza
+Preferred Pronoun:  Her
+City/Location:  Montreal, Canada
+University & Major:  M.Sc. in Computer Science - University of Windsor
+Company & Background/Industry:  Data Scientist
+Favorite Emoji:  :qiskitsmart: 
+Favorite Color: :blue_heart: 
+
+Name: Arpan Bhattacharjee
+Preferred Pronoun:   He
+City/Location:  Kolkata, India
+University & Major: B.Sc. in Physics - St. Xavier's College, Kolkata
+Company & Background/Industry:  Physics ( Theoretical )
+Favorite Emoji:  :quantumidea: 
+Favorite Color: :green_apple:
+
+Name: Dylan Li
+Preferred Pronoun: He
+City/Location: Texas, United States
+University & Major: Texas Academy of Mathematics and Science - Computer Science
+Company & Background/Industry: Computer Science
+Favorite Emoji: :quasparticle: 
+Favorite Color: :blue_heart:
+
 ### Final Project of the Qiskit 2020 Summer School
 **Objective:** Simulate the ground state of the molecule Lithium Hydride (LiH) with the lowest energy and error. 
 The goal is to complete the molecular simulation in the *fewest number of steps*, and the *highest level of chemical accuracy*.
