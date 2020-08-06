@@ -14,9 +14,9 @@ In this project we design, implement, and simulate a Variational Quantum Eigenso
 
 The kinetic energy of a single electron can be described using classical mechanics:
 
-Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}×m×v^{2}">
+Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}\times m \times v^{2}">
 
-Where m is the mass of an electron. <img src="https://render.githubusercontent.com/render/math?math= 9.10938356 × 10^{-31} kg"> 
+Where m is the mass of an electron. <img src="https://render.githubusercontent.com/render/math?math= 9.10938356 \times 10^{-31} kg"> 
 #### Nuclear Kinetic Energy
 
 #### Electron to Nuclear Coulombic Force
