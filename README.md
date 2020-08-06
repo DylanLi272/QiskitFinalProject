@@ -19,8 +19,6 @@ Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/
 
 Where m is the mass of an electron and v is the velocity of an electron in meters per second.
 
-<img src="https://render.githubusercontent.com/render/math?math=">
-
 <img src="https://render.githubusercontent.com/render/math?math=m=9.10938356 \times 10^{-31} kg v=\frac{m}{s}">
 
 However, obtaining the precise velocity of an electron is impossible because of how small they are. There is nothing to measure an electron's movement against. Measurements always require some frame of reference. One advantage to using a quantum computer is that it allows us to estimate the velocity of an electron during simulation by using current and resistance (impedance) measurements on the microwave transceiver that ineracts with a Josephson Junction (Qubit). The estimate you can obtain for a electron's velocity using a quantum computer is more accurate because it is a representation of the quantum mechanical effect you are attempting to measure outside of a lab setting.
