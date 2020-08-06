@@ -6,9 +6,29 @@ The goal is to complete the molecular simulation in the *fewest number of steps*
 
 ---
 
-In this project we design, implement, and simulate a Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule. Each team member explores a different optimization path using the same base model. LiH is a 12 body molecule containing 4 protons, 4 electrons, and 4 neutrons. This creates a 12 body model, which becomes intractable when simulating it both with a classical and quantum computer. The First Quantized Molecular Hamiltonian for LiH can be described with the following vector calculus formula: 
+In this project we design, implement, and simulate a Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule. Each team member explores a different optimization path using the same base model. LiH is a 12 body molecule containing 4 protons, 4 electrons, and 4 neutrons. This creates a 12 body model, which becomes intractable when simulating it both with a classical and quantum computer. Let's begin by describing the intermolecular forces conceptually:
+
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math= - Sum(Electron Kinetic Energy) - Sum(Nuclear Kinetic Energy) - Sum(Electron to Nuclear Coulombic Forces) + Sum(Electron to Electron Coulombic Forces) + Sum(Nuclear to Nuclear Coulombic Forces)"></p>
+
+#### Electron Kinetic Energy
+
+The kinetic energy of a single electron can be described using classical mechanics:
+
+Electron Kinetic Energy = <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2}×m×v^{2}">
+
+Where m is the mass of an electron. <img src="https://render.githubusercontent.com/render/math?math= 9.10938356 × 10^{-31} kg"> 
+#### Nuclear Kinetic Energy
+
+#### Electron to Nuclear Coulombic Force
+
+#### Electron to Electron Coulombic Force
+
+#### Nuclear to Nuclear Coulombic Force
+
+The First Quantized Molecular Hamiltonian for LiH can be described with the following vector calculus formula: 
 
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=H = -\sum_{i=1}^{N}\frac{1}{2}\triangledown_{i}^{2}-\sum_{A=1}^{M}\frac{1}{2M_{A}}\triangledown_{A}^{2}-\sum_{i=1}^{N}\sum_{A=1}^{M}\frac{Z_{a}}{r_{iA}}+\sum_{j>i}\frac{1}{r_{ij}}+\sum_{B>A}\frac{Z_{A}Z_{B}}{R_{AB}}"></p>
+
 
 Choices of designing VQE algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
 
