@@ -56,7 +56,7 @@ The First Quantized Molecular Hamiltonian for LiH can be described with the foll
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When designing an algorithm to be run on an actual quantum computer, there are a lot of variables to consider and the choices you make for the algorithm could dynamically change given different hardware specifications. Therefore there is no right answer for how you should design your algorithm. The goal of this project is for you to understand the different components that comprise a VQE algorithm and showcase your understanding by comparing the performance of different algorithm instances.
 
-##### Reducing Complexity - Quantum Mechanical Mathematics Reductions 
+##### Reducing Complexity - Quantum Mechanics - Applying Mathematical Reductions
 
 ### Meet the Team of Researchers
 
