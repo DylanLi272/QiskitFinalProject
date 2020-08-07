@@ -58,34 +58,34 @@ The First Quantized Molecular Hamiltonian for LiH can be described with the foll
 ### Meet the Team of Researchers
 
 #### Justin Adams
-  Preferred Pronoun:  He
-  City/Location:  Burlington, United States
-  University & Major: B.Sc. Electrical Engineering and B.Sc. Computer Science
-  Company & Background/Industry: Q2-Computing Quantum Computation and Quantum Operating System based on NP Hard Reductions using Majorana Fermion Josephson Junctions
-  Favorite Emoji:  Majorana Fermion
-  Favorite Color: :blue_book:
-
+  Preferred Pronoun: He  
+  City/Location: Burlington, United States  
+  University & Major: B.Sc. Electrical Engineering and B.Sc. Computer Science  
+  Company & Background/Industry: Q2-Computing Quantum Computation and Quantum Operating System based on NP Hard Reductions using Majorana Fermion Josephson Junctions  
+  Favorite Emoji:  Majorana Fermion  
+  Favorite Color: :blue_book:  
+  
+#### Dylan Li
+  Preferred Pronoun: He  
+  City/Location: Texas, United States  
+  University & Major: Texas Academy of Mathematics and Science - Computer Science  
+  Company & Background/Industry: Computer Science  
+  Favorite Emoji: Quasi Particle  
+  Favorite Color: :blue_heart:  
+  
 #### Zarreen Reza
-  Preferred Pronoun:  Her
-  City/Location:  Montreal, Canada
-  University & Major:  M.Sc. in Computer Science - University of Windsor
-  Company & Background/Industry:  Data Scientist
-  Favorite Emoji:  Qiskit Smart
-  Favorite Color: :blue_heart: 
+  Preferred Pronoun: Her  
+  City/Location: Montreal, Canada  
+  University & Major:  M.Sc. in Computer Science - University of Windsor  
+  Company & Background/Industry:  Data Scientist  
+  Favorite Emoji:  Qiskit Smart  
+  Favorite Color: :blue_heart:  
   
 #### Arpan Bhattacharjee
-  Preferred Pronoun:   He
-  City/Location:  Kolkata, India
-  University & Major: B.Sc. in Physics - St. Xavier's College, Kolkata
-  Company & Background/Industry:  Physics ( Theoretical )
-  Favorite Emoji:  Quantum Idea
-  Favorite Color: :green_apple:
-
-#### Dylan Li
-  Preferred Pronoun: He
-  City/Location: Texas, United States
-  University & Major: Texas Academy of Mathematics and Science - Computer Science
-  Company & Background/Industry: Computer Science
-  Favorite Emoji: Quasi Particle
-  Favorite Color: :blue_heart:
+  Preferred Pronoun: He  
+  City/Location: Kolkata, India  
+  University & Major: B.Sc. in Physics - St. Xavier's College, Kolkata  
+  Company & Background/Industry:  Physics ( Theoretical )  
+  Favorite Emoji:  Quantum Idea  
+  Favorite Color: :green_apple:  
 
