@@ -52,7 +52,7 @@ The First Quantized Molecular Hamiltonian for LiH can be described with the foll
 <p align="center"><img src="https://render.githubusercontent.com/render/math?math=\hat{H}=-\sum_{i=1}^{N}\frac{1}{2}\triangledown_{i}^{2}-\sum_{A=1}^{M}\frac{1}{2M_{A}}\triangledown_{A}^{2}-\sum_{i=1}^{N}\sum_{A=1}^{M}\frac{Z_{a}}{r_{iA}}+\sum_{j>i}\frac{1}{r_{ij}}+\sum_{B>A}\frac{Z_{A}Z_{B}}{R_{AB}}"></p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choices of designing VQE algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choices of designing Variational Quantum Eigensolver (VQE) algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When designing an algorithm to be run on an actual quantum computer, there are a lot of variables to consider and the choices you make for the algorithm could dynamically change given different hardware specifications. Therefore there is no right answer for how you should design your algorithm. The goal of this project is for you to understand the different components that comprise a VQE algorithm and showcase your understanding by comparing the performance of different algorithm instances.
 
